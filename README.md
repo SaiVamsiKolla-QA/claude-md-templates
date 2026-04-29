@@ -1,2 +1,11 @@
-# claude-md-templates
- Think of it as a standing brief for a new contractor- it tells Claude what to do
+## AI Development Workflow
+
+This repository follows structured prompt patterns for working with AI coding assistants.
+
+Documentation:
+
+- [Claude Prompt Patterns](docs/claude-prompt-patterns.md)
+
+The workflow ensures safe AI-assisted development:
+
+Health Check → Step Prompt → Checkpoint Review → Commit → Repeat
